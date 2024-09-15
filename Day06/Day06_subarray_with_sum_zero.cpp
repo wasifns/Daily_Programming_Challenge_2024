@@ -10,7 +10,7 @@ vector<pair<int, int>> subarraysWithSumZero(int arr[], int n) {
     
     int check_sum = 0;
     
-    // Iterate through the array
+    
     for (int i = 0; i < n; i++) {
         check_sum += arr[i];
         
