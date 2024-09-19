@@ -73,15 +73,6 @@ int main(){
     return 0;
 
 //passed all test cases
-/*Test Case 1
-Input: [0, 1, 2, 1, 0, 2, 1, 0]
-Output: [0, 0, 0, 1, 1, 1, 2, 2]
-Test Case 2:
-Input: [2, 2, 2, 2]
-Output: [2, 2, 2, 2]
-Test Case 3:
-Input: [0, 0, 0, 0]
-Output: [0, 0, 0, 0]
-*/
+
 
 }
