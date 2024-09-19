@@ -7,9 +7,9 @@ vector<vector<string> > Anagrams(vector<string>& string_list) {
         {
             string s=string_list[i];
             
-            sort(s.begin(),s.end());  // sare elements of string sort hogye
+            sort(s.begin(),s.end()); 
             
-            mp[s].push_back(string_list[i]); // sare sorted elments ko map kr krdiya
+            mp[s].push_back(string_list[i]); 
         }
         
          vector<vector<string>> ans;
